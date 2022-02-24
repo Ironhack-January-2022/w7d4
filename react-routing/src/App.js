@@ -5,7 +5,6 @@ import About from "./About";
 import ProjectDetails from "./ProjectDetails";
 import { Projects } from "./Projects";
 import Navbar from "./Navbar";
-import { Route, Switch } from 'react-router-dom';
 
 function NotFound() {
   return <h1>404 - Not Found - 🙀</h1>
